@@ -13,7 +13,7 @@ async function getData() {
     }
 
     const list = await response.json();
-    const result = list[Math.floor(Math.random() * 5)];
+    const result = list[Math.floor(Math.random() * list.length)];
 
     fillData(result.word, result.description, result.useCase);
 
