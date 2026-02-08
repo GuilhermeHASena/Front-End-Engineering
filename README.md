@@ -7,7 +7,7 @@
 Este é um projeto simples de front-end usado para aprender e demonstrar conceitos básicos de desenvolvimento web: HTML, CSS e JavaScript.
 
 Para acessar esse projeto basta entrar no link abaixo:
-(https://front-end-engineering.netlify.app){:target="_blank"}
+https://front-end-engineering.netlify.app{:target="_blank"}
 
  
 🎯 **Objetivo do projeto:** Ensinar palavras em inglês — a aplicação simula um layout em sala de aula, onde o usuário pode navegar por várias palavras exibidas na interface. Para cada palavra a aplicação retorna três itens principais: a palavra (word), uma descrição (description) e um exemplo de uso/prática (use case) — todos apresentados em inglês para reforçar o aprendizado.
