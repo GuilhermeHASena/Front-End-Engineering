@@ -8,7 +8,7 @@ Este é um projeto simples de front-end usado para aprender e demonstrar conceit
 
 Para acessar esse projeto basta entrar no link abaixo:
 <a href="https://front-end-engineering.netlify.app" target="_blank">
-  https://front-end-engineering.netlify.app
+  Acessar projeto
 </a>
 
  
