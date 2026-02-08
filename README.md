@@ -5,6 +5,11 @@
 📘 **Visão Geral**
  
 Este é um projeto simples de front-end usado para aprender e demonstrar conceitos básicos de desenvolvimento web: HTML, CSS e JavaScript.
+
+Para acessar esse projeto basta entrar no link abaixo:
+```
+GET https://front-end-engineering.netlify.app
+```
  
 🎯 **Objetivo do projeto:** Ensinar palavras em inglês — a aplicação simula um layout em sala de aula, onde o usuário pode navegar por várias palavras exibidas na interface. Para cada palavra a aplicação retorna três itens principais: a palavra (word), uma descrição (description) e um exemplo de uso/prática (use case) — todos apresentados em inglês para reforçar o aprendizado.
  
@@ -111,6 +116,11 @@ Observações:
 - Para recursos que fazem requisições a APIs externas (CORS), configure as permissões ou use um proxy se necessário.
  
 📊 **Lighthouse & Métricas de Performance**
+
+![b9801488-cf44-4a57-8a70-6bc12705faf7](https://github.com/user-attachments/assets/4f1c556e-9575-4588-9c56-d3e80db3329b)
+
+![0c0372d5-26ef-4a1e-a2d3-bc3079e33241](https://github.com/user-attachments/assets/4e6e2643-9767-4c5e-90ce-05b64afa2253)
+
  
 O Lighthouse é uma ferramenta do Google que analisa a performance, acessibilidade, SEO e boas práticas da aplicação. Aqui estão as principais métricas medidas:
  
